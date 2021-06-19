@@ -1,0 +1,20 @@
+temporal knowledge graph 2020-2021年顶会论文
+----------------------------------------------------------------
+
+Temporal Knowledge Graph Reasoning Based on Evolutional Representation Learning SIGIR21
+TIE: A Framework for Embedding-based Incremental Temporal Knowledge Graph Completion SIGIR21
+Learning from History: Modeling Temporal Knowledge Graphs with Sequential Copy-Generation Networks AAAI21
+ChronoR: Rotation Based Temporal Knowledge Graph Embedding AAAI21
+Explainable Subgraph Reasoning for Forecasting on Temporal Knowledge Graphs ICLR21
+Learning Dynamic Embeddings for Temporal Knowledge Graphs WSDM21
+TPmod: A Tendency-Guided Prediction Model for Temporal Knowledge Graph Completion TKDD21
+TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion EMNLP20
+DyERNIE: Dynamic Evolution of Riemannian Manifold Embeddings for Temporal Knowledge Graph Completion EMNLP20
+Recurrent Event Network: Autoregressive Structure Inference over Temporal Knowledge Graphs  EMNLP20
+Temporal Knowledge Graph Completion Based on Time Series Gaussian Embedding ISWC20
+Towards Temporal Knowledge Graph Embeddings with Arbitrary Time Precision CIKM20
+RTFE: A Recursive Temporal Fact Embedding Framework for Temporal Knowledge Graph Completion NAACL-HLT21
+TeRo: A Time-aware Knowledge Graph Embedding via Temporal Rotation  COLING20
+Inductive Representation Learning In Temporal Networks Via Causal Anonymous Walks ICLR21
+Learning To Deceive Knowledge Graph Augmented Models Via Targeted Perturbation ICLR21
+Temporal Knowledge Graph Completion using a Linear Temporal Regularizer and Multivector Embeddings NAACL 21
